@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Jane-Frances
   
-- 🌱 I’m currently learning mobile app development, swift in particular
+- 🌱 I am a detail‑oriented software tester with hands‑on experience in manual and automation testing of web applications. I have worked on real‑world demo platforms, designing test plans, writing test cases, executing tests, reporting bugs, and creating automation scripts using Cypress.
+
+
   
 - 📫 How to reach me; Email: janefrancesokure47@gmail.com
 - 😄 Pronouns: She, Her
